@@ -14,7 +14,7 @@ Education
 * Ph.D in Electrical and Computer Engineering, University of California, Irvine , 2022 - present
 * M.S. in Electrical Engineering, University of Southern California, 2017 - 2019
 * B.S. in Electronic Information Engineering (Honors Program), China Agricultural University, 2013 - 2017
-* Minor in Finance, 2014 - 2017
+* BEc  in Finance, China Agricultural University, 2014 - 2017
 
 
 Experience
@@ -29,6 +29,12 @@ Experience
   * Demodulation of FBG using F-P Filter based on FPGA 
   * Development of laboratory apparatus in optical fibre gyroscope
   * Supervisor: Professor [Xiaohong Ma](http://web.ee.tsinghua.edu.cn/maxiaohong/en/index.htm)
+
+* Software Development Engineer, Nov 2019 - Jan 2022
+  * Woww Group LLC.
+  * Design and develop ERP system for warehouse and accounting in c#
+  * Manage and develop online platform backend in php and IOS/Android frontend app
+  * Supervisor: [Mikey Min](http://linkedin.com/in/mikey-min) 
 
 
 <!--
