@@ -15,7 +15,7 @@ Education
 * M.S. in Electrical Engineering, University of Southern California, 2017 - 2019
 * B.S. in Electronic Information Engineering (Honors Program), China Agricultural University, 2013 - 2017
 * Minor in Finance, 2014 - 2017
-
+[corsa](https://corsa.eng.uci.edu)
 Work experience
 ======
 * Research Assistant, May 2022 - Aug 2022
