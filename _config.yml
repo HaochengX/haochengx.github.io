@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Haocheng Xu"
   avatar           : "profile.jpg"
-  bio              : "[CORSA](https://corsa.eng.uci.edu/)"
+  bio              : "First-year PhD student @ UCI"
   location         : "Irvine, CA"
+  corsa            : "https://corsa.eng.uci.edu/"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
