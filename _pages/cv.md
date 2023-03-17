@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,16 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical and Computer Engineering, University of California, Irvine , 2022 - present
+* M.S. in Electrical Engineering, University of Southern California, 2017 - 2019
+* B.S. in Electronic Information Engineering (Honors Program), China Agricultural University, 2013 - 2017
+* Minor in Finance, 2014 - 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Research Assistant, May 2022 - Aug 2022
+  * University of California, Irvine
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Sitao Huang
+* Research Assistant, May 2016 - June 2017
+  * Physical Electronics and Optoelectronics Lab, Tsinghua University 
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Xiaohong Ma
 
 * Fall 2015: Research Assistant
   * Github University
