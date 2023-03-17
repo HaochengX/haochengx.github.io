@@ -21,18 +21,17 @@ Experience
 ======
 * Research Assistant, May 2022 - Aug 2022
   * University of California, Irvine
-  * Duties included: Merging pull requests
+  * Focusing on real-world problems that requires the implementation of machine learning algorithms on low-end microprocessors/microcontrollers
   * Supervisor: Professor [Sitao Huang](https://sitaohuang.com/)
+
 * Research Assistant, May 2016 - June 2017
   * Physical Electronics and Optoelectronics Lab, Tsinghua University 
-  * Duties included: Tagging issues
-  * Supervisor: Professor Xiaohong Ma
+  * Demodulation of FBG using F-P Filter based on FPGA 
+  * Development of laboratory apparatus in optical fibre gyroscope
+  * Supervisor: Professor [Xiaohong Ma](http://web.ee.tsinghua.edu.cn/maxiaohong/en/index.htm)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
+<!--
 Skills
 ======
 * Skill 1
@@ -63,3 +62,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
