@@ -15,13 +15,14 @@ Education
 * M.S. in Electrical Engineering, University of Southern California, 2017 - 2019
 * B.S. in Electronic Information Engineering (Honors Program), China Agricultural University, 2013 - 2017
 * Minor in Finance, 2014 - 2017
-[corsa](https://corsa.eng.uci.edu)
-Work experience
+
+
+Experience
 ======
 * Research Assistant, May 2022 - Aug 2022
   * University of California, Irvine
   * Duties included: Merging pull requests
-  * Supervisor: Professor Sitao Huang
+  * Supervisor: Professor [Sitao Huang](https://sitaohuang.com/)
 * Research Assistant, May 2016 - June 2017
   * Physical Electronics and Optoelectronics Lab, Tsinghua University 
   * Duties included: Tagging issues
