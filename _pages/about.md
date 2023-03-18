@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 Hi, I am a 1st-year Ph.D. student at the [Department of Electrical Engineering and Computer Science](https://engineering.uci.edu/dept/eecs), University of California, Irvine. Currently, I'm working in the [CORSA Group](https://corsa.eng.uci.edu/) with Prof. [Sitao Huang](https://sitaohuang.com/).
 
 <!--

@@ -21,7 +21,7 @@ Experience
 ======
 * Research Assistant, May 2022 - Aug 2022
   * University of California, Irvine
-  * Focusing on real-world problems that requires the implementation of machine learning algorithms on low-end microprocessors/microcontrollers
+  * Implementation of machine learning algorithms on low-end microprocessors focusing on real-world problems
   * Supervisor: Professor [Sitao Huang](https://sitaohuang.com/)
 
 * Research Assistant, May 2016 - June 2017
