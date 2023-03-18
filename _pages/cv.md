@@ -19,19 +19,16 @@ Education
 
 Experience
 ======
-* Research Assistant, May 2022 - Aug 2022
-  * University of California, Irvine
+* Research Assistant, CORSA Lab, University of California, Irvine, May 2022 - Aug 2022
   * Implementation of machine learning algorithms on low-end microprocessors focusing on real-world problems
   * Supervisor: Professor [Sitao Huang](https://sitaohuang.com/)
 
-* Research Assistant, May 2016 - June 2017
-  * Physical Electronics and Optoelectronics Lab, Tsinghua University 
+* Research Assistant, Physical Electronics and Optoelectronics Lab, Tsinghua University, May 2016 - June 2017
   * Demodulation of FBG using F-P Filter based on FPGA 
   * Development of laboratory apparatus in optical fibre gyroscope
   * Supervisor: Professor [Xiaohong Ma](http://web.ee.tsinghua.edu.cn/maxiaohong/en/index.htm)
 
-* Software Development Engineer, Nov 2019 - Jan 2022
-  * Woww Group LLC.
+* Software Development Engineer, Woww Group LLC, Nov 2019 - Jan 2022
   * Design and develop ERP system for warehouse and accounting in c#
   * Manage and develop online platform backend in php and IOS/Android frontend app
   * Supervisor: [Mikey Min](http://linkedin.com/in/mikey-min) 
