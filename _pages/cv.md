@@ -31,7 +31,6 @@ Experience
 * Software Development Engineer, Woww Group LLC, Nov 2019 - Jan 2022
   * Design and develop ERP system for warehouse and accounting in c#
   * Manage and develop online platform backend in php and IOS/Android frontend app
-  * Supervisor: [Mikey Min](http://linkedin.com/in/mikey-min) 
 
 
 <!--
