@@ -5,9 +5,10 @@ main:
 
   - title: "Education"
     url: /cv/
-    
-  - title: "Research"
-    url: /publications/
 
-  - title: "Honors"
-    url: /talks/    
+
+#  - title: "Research"
+#    url: /publications/
+
+#  - title: "Honors"
+#    url: /talks/    
