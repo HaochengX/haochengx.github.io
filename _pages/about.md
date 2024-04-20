@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a 1st-year Ph.D. student at the [Department of Electrical Engineering and Computer Science](https://engineering.uci.edu/dept/eecs), University of California, Irvine. Currently, I'm working in the [CORSA Group](https://corsa.eng.uci.edu/) with Prof. [Sitao Huang](https://sitaohuang.com/).
+Hi, I'm a 2nd year EECS Ph.D. student at UCI [Corsa Lab](https://corsa.eng.uci.edu/) working with Prof. [Sitao Huang](https://sitaohuang.com/). I also work closely with Prof. [Hyoukjun Kwon](https://hyoukjunkwon.com/). My research focus is deep learning accelerators, efficient machine learning systems, and heterogeneous computing. I will be joining MediaTek as an AI Architecture and Algorithm intern for summer 2024.
+
+I have around two years of experience as a Graduate Research Assistant at UC Irvine, where I work on projects in the fields of designing deep learning accelerators, neural architecture search, and hardware-software co-design. Recently, I have been working on LLM-aided design space exploration and codgen based on RAG.
+
+I'm also a Leadership Team Member at Nucleate Los Angeles, a mission-driven organization that supports early-stage biotech startups in the LA region. I have over two years of experience as a Senior Software Development Engineer at FRESHCART, where I led the design and implementation of a scalable and secure e-commerce platform for fresh produce delivery.
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

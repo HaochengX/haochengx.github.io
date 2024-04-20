@@ -19,7 +19,13 @@ Education
 
 Experience
 ======
-* Research Assistant, CORSA Lab, University of California, Irvine, May 2022 - Aug 2022
+* Teaching Assistant 
+  * EECS 112 Organization of Digital Computers, Srping 2024
+  * EECS 31 Introduction to Digital System, Winter 2024
+  * ICS 139W Critical Writing, Fall 2023 
+
+* Research Assistant, CORSA Lab, University of California, Irvine, May 2022 - Aug 2022, Jun 2023 - Sep 2023
+  * Focused on spatial accelerator design space exploration for transformer model
   * Implementation of machine learning algorithms on low-end microprocessors focusing on real-world problems
   * Supervisor: Professor [Sitao Huang](https://sitaohuang.com/)
 
@@ -28,7 +34,7 @@ Experience
   * Development of laboratory apparatus in optical fibre gyroscope
   * Supervisor: Professor [Xiaohong Ma](http://web.ee.tsinghua.edu.cn/maxiaohong/en/index.htm)
 
-* Software Development Engineer, Woww Group LLC, Nov 2019 - Jan 2022
+* Senior Software Development Engineer, FreshCart, Nov 2019 - Jan 2022
   * Design and develop ERP system for warehouse and accounting in c#
   * Manage and develop online platform backend in php and IOS/Android frontend app
 
