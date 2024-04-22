@@ -14,34 +14,6 @@ I have around two years of experience as a Graduate Research Assistant at UC Irv
 
 I'm also a Leadership Team Member at Nucleate Los Angeles, a mission-driven organization that supports early-stage biotech startups in the LA region. I have over two years of experience as a Senior Software Development Engineer at FRESHCART, where I led the design and implementation of a scalable and secure e-commerce platform for fresh produce delivery.
 
-Experience
-======
-* Teaching Assistant 
-  * EECS 112 Organization of Digital Computers, Srping 2024
-  * EECS 31 Introduction to Digital System, Winter 2024
-  * ICS 139W Critical Writing, Fall 2023 
-
-* Research Assistant, CORSA Lab, University of California, Irvine, May 2022 - Aug 2022, Jun 2023 - Sep 2023
-  * Focused on spatial accelerator design space exploration for transformer model
-  * Implementation of machine learning algorithms on low-end microprocessors focusing on real-world problems
-  * Supervisor: Professor [Sitao Huang](https://sitaohuang.com/)
-
-* Research Assistant, Physical Electronics and Optoelectronics Lab, Tsinghua University, May 2016 - June 2017
-  * Demodulation of FBG using F-P Filter based on FPGA 
-  * Development of laboratory apparatus in optical fibre gyroscope
-  * Supervisor: Professor [Xiaohong Ma](http://web.ee.tsinghua.edu.cn/maxiaohong/en/index.htm)
-
-* Senior Software Development Engineer, FreshCart, Nov 2019 - Jan 2022
-  * Design and develop ERP system for warehouse and accounting in c#
-  * Manage and develop online platform backend in php and IOS/Android frontend app
-
-  Education
-======
-* Ph.D in Electrical and Computer Engineering, University of California, Irvine , 2022 - present
-* M.S. in Electrical Engineering, University of Southern California, 2017 - 2019
-* B.S. in Electronic Information Engineering (Honors Program), China Agricultural University, 2013 - 2017
-* BEc  in Finance, China Agricultural University, 2014 - 2017
-
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
