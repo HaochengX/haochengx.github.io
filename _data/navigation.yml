@@ -3,8 +3,8 @@ main:
   - title: "About"
     url: /about/    
 
-#  - title: "Education"
-#    url: /cv/
+  - title: "Experience"
+    url: /cv/
 
 
 #  - title: "Research"
