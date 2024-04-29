@@ -13,7 +13,7 @@ redirect_from:
 Research Experience
 ======
 * AI Architecture and Algorithm Intern, MediaTek, San Jose, June 2024 - Sep 2024 (Incoming)
-  * Analyze AI and computer vision workloads and perform architectural simulation for performance and power tradeoffs
+  * Analyze AI workloads and perform architectural simulation for performance and power trade-offs
   * Design scalable hardware solutions for large deep-learning applications
   * Program new AI algorithms by utilizing our industry-proven software stack for the smartphones
   * Develop new compiler IRs for the next generation AI accelerators.
