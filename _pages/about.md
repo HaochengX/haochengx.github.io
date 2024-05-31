@@ -16,14 +16,24 @@ I'm also a Leadership Team Member at Nucleate Los Angeles, a mission-driven orga
 
 
 [5/10/24]One paper "Optimizing High-Level Synthesis Designs with Retrieval-Augmented Large Language Models" has been accepected to LAD'24
+
 [5/2/24]Recived Best Student Poster Award at the IAP UCI Workshop on the Future of AI and Cloud Computing Applications and Infrastructure
+
 [4/28/24]Joined OSDI/ATC 2024 Artifact Evaluation Committee (AEC)
+
 [4/26/24]Received MLSys'24 Student Travel Grant
+
 [4/15/24]One poster has been accepted to MLSys'24 YPS Program
+
 [4/15/24]I will join MediaTek as AI Architecture and Algorithm Intern this Summer 2024
+
 [4/7/24]Received DAC Young Fellow 2024
+
 [12/16/23]One paper "HyperDetect: A Real-Time Hyperdimensional Solution For Intrusion Detection in IoT Networks" has been acceptected to IEEE Internet of Things Journal
-[11/12/23]"MicroNAS: Zero-Shot Neural Architecture Search for MCUs" has been accepted to DATE'24 as extended abstract.
+
+[11/12/23]"MicroNAS: Zero-Shot Neural Architecture Search for MCUs" has been accepted to DATE'24 as extended abstract
+
+
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
