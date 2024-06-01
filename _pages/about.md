@@ -26,7 +26,7 @@ I'm also a Leadership Team Member at Nucleate Los Angeles, a mission-driven orga
 
 [4/26/24] Received [MLSys'24](https://mlsys.org/) **Student Travel Grant**
 
-[4/15/24] One poster has been accepted to [MLSys'24 **YPS**](https://sites.google.com/view/mlsys24yps/) Program
+[4/15/24] One poster has been accepted to [MLSys'24 Young Professionals Symposium](https://sites.google.com/view/mlsys24yps/)
 
 [4/15/24] I will join **MediaTek** as **AI Architecture and Algorithm Intern** this Summer 2024
 
