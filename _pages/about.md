@@ -15,23 +15,25 @@ I have around two years of experience as a Graduate Research Assistant at UC Irv
 I'm also a Leadership Team Member at Nucleate Los Angeles, a mission-driven organization that supports early-stage biotech startups in the LA region. I have over two years of experience as a Senior Software Development Engineer at FRESHCART, where I led the design and implementation of a scalable and secure e-commerce platform for fresh produce delivery.
 
 
-[5/10/24]One paper "Optimizing High-Level Synthesis Designs with Retrieval-Augmented Large Language Models" has been accepected to LAD'24
 
-[5/2/24]Recived Best Student Poster Award at the IAP UCI Workshop on the Future of AI and Cloud Computing Applications and Infrastructure
 
-[4/28/24]Joined OSDI/ATC 2024 Artifact Evaluation Committee (AEC)
+[5/10/24] One paper "Optimizing High-Level Synthesis Designs with Retrieval-Augmented Large Language Models" has been accepected to [LAD'24](https://www.islad.org/)
 
-[4/26/24]Received MLSys'24 Student Travel Grant
+[5/2/24] Recived **Best Student Poster Award** at the [IAP UCI Workshop](https://www.industry-academia.org/uci-2024.html) on the Future of AI and Cloud Computing Applications and Infrastructure
 
-[4/15/24]One poster has been accepted to MLSys'24 YPS Program
+[4/28/24]Joined [OSDI](https://www.usenix.org/conference/osdi24/call-for-artifacts）/[ATC](https://www.usenix.org/conference/atc24) 2024 Artifact Evaluation Committee (AEC)
 
-[4/15/24]I will join MediaTek as AI Architecture and Algorithm Intern this Summer 2024
+[4/26/24]Received **[MLSys'24](https://mlsys.org/) Student Travel Grant**
 
-[4/7/24]Received DAC Young Fellow 2024
+[4/15/24]One poster has been accepted to **[MLSys'24 YPS](https://sites.google.com/view/mlsys24yps/) Program**
 
-[12/16/23]One paper "HyperDetect: A Real-Time Hyperdimensional Solution For Intrusion Detection in IoT Networks" has been acceptected to IEEE Internet of Things Journal
+[4/15/24]I will join **MediaTek** as **AI Architecture and Algorithm Intern** this Summer 2024
 
-[11/12/23]"MicroNAS: Zero-Shot Neural Architecture Search for MCUs" has been accepted to DATE'24 as extended abstract
+[4/7/24]Received **DAC Young Fellow** 2024
+
+[12/16/23]One paper "HyperDetect: A Real-Time Hyperdimensional Solution For Intrusion Detection in IoT Networks" has been acceptected to **IEEE Internet of Things Journal**
+
+[11/12/23]"MicroNAS: Zero-Shot Neural Architecture Search for MCUs" has been accepted to [DATE'24](https://www.date-conference.com/) as extended abstract
 
 
 <!--
