@@ -12,7 +12,7 @@ redirect_from:
 
 Research Experience
 ======
-* AI Architecture and Algorithm Intern, MediaTek, San Jose, June 2024 - Sep 2024 (Incoming)
+* AI Architecture and Algorithm Intern, MediaTek, San Jose, June 2024 - Sep 2024 
   * Analyze AI workloads and perform architectural simulation for performance and power trade-offs
   * Design scalable hardware solutions for large deep-learning applications
   * Program new AI algorithms by utilizing our industry-proven software stack for the smartphones
@@ -35,6 +35,7 @@ Research Experience
 Teaching Expereince
 ======
 * Teaching Assistant 
+  * EECS 112L Organization of Digital Computers Lab, Fall 2024, Winter 2025
   * EECS 112 Organization of Digital Computers, Srping 2024
   * EECS 31 Introduction to Digital System, Winter 2024
   * ICS 139W Critical Writing, Fall 2023 

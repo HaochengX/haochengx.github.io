@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a 2nd year EECS Ph.D. student at UCI [Corsa Lab](https://corsa.eng.uci.edu/) working with Prof. [Sitao Huang](https://sitaohuang.com/). I also work closely with Prof. [Hyoukjun Kwon](https://hyoukjunkwon.com/). My research focus is deep learning accelerators, efficient machine learning systems, and heterogeneous computing. I will be joining MediaTek as an AI Architecture and Algorithm intern for summer 2024.
+Hi, I'm a 3rd year EECS Ph.D. student at UCI [Corsa Lab](https://corsa.eng.uci.edu/) working with Prof. [Sitao Huang](https://sitaohuang.com/). I also work closely with Prof. [Hyoukjun Kwon](https://hyoukjunkwon.com/). My research focus is deep learning accelerators, efficient machine learning systems, and heterogeneous computing. 
 
 I have around two years of experience as a Graduate Research Assistant at UC Irvine, where I work on projects in the fields of designing deep learning accelerators, neural architecture search, and hardware-software co-design. Recently, I have been working on LLM-aided design space exploration and codgen based on RAG.
 
@@ -18,7 +18,7 @@ I'm also a Leadership Team Member at Nucleate Los Angeles, a mission-driven orga
 **Update**
 
 
-[5/10/24] One paper "Optimizing High-Level Synthesis Designs with Retrieval-Augmented Large Language Models" has been accepected to [LAD'24](https://www.islad.org/)
+[5/10/24] One paper "[Optimizing High-Level Synthesis Designs with Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2410.07356)" has been accepected to [LAD'24](https://www.islad.org/)
 
 [5/2/24] Recived **Best Student Poster Award** at the [IAP UCI Workshop](https://www.industry-academia.org/uci-2024.html) on the Future of AI and Cloud Computing Applications and Infrastructure
 
