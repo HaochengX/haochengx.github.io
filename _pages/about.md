@@ -12,11 +12,12 @@ Hi, I'm a 3rd year EECS Ph.D. student at UCI [Corsa Lab](https://corsa.eng.uci.e
 
 I have around two years of experience as a Graduate Research Assistant at UC Irvine, where I work on projects in the fields of designing deep learning accelerators, neural architecture search, and hardware-software co-design. Recently, I have been working on LLM-aided design space exploration and codgen based on RAG.
 
-I'm also a Leadership Team Member at Nucleate Los Angeles, a mission-driven organization that supports early-stage biotech startups in the LA region. I have over two years of experience as a Senior Software Development Engineer at FRESHCART, where I led the design and implementation of a scalable and secure e-commerce platform for fresh produce delivery.
+<!-- I'm also a Leadership Team Member at Nucleate Los Angeles, a mission-driven organization that supports early-stage biotech startups in the LA region. I have over two years of experience as a Senior Software Development Engineer at FRESHCART, where I led the design and implementation of a scalable and secure e-commerce platform for fresh produce delivery. -->
 
 
 **Update**
 
+[3/11/25] Two papers "[RSEND: Retinex-based Squeeze and Excitation Network with Dark Region Detection for Efficient Low Light Image Enhancement](https://arxiv.org/abs/2406.09656)" and "[MONAS: Efficient zero-shot neural architecture search for MCUs](https://arxiv.org/abs/2408.15034)" have been accepted to [IJCNN'25](https://2025.ijcnn.org/)
 
 [5/10/24] One paper "[Optimizing High-Level Synthesis Designs with Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2410.07356)" has been accepected to [LAD'24](https://www.islad.org/)
 

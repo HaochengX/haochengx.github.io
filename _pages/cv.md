@@ -12,11 +12,18 @@ redirect_from:
 
 Research Experience
 ======
+* System Architecture Lab Intern, HPE Labs, Milpitas, June 2025 - Sep 2025
+  * Design LLM-based multi-agents code optimization framework
+  * Develop graph-aware code optimization algorithms
+  * Develop SSM-based speculative decoding algorithms
+  * Supervisor: Alok Mishra, Rolando Pablo Hong Enrique, Dejan Milojicic
+
 * AI Architecture and Algorithm Intern, MediaTek, San Jose, June 2024 - Sep 2024 
   * Analyze AI workloads and perform architectural simulation for performance and power trade-offs
   * Design scalable hardware solutions for large deep-learning applications
   * Program new AI algorithms by utilizing our industry-proven software stack for the smartphones
   * Develop new compiler IRs for the next generation AI accelerators.
+  * Supervisor: Tsung-Han Lin
 
 * Research Assistant, CORSA Lab, University of California, Irvine, May 2022 - Aug 2022, Jun 2023 - Sep 2023
   * Focused on spatial accelerator design space exploration for transformer model
